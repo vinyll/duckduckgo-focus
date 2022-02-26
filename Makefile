@@ -1,2 +1,2 @@
 build:
-	zip --exclude=".*" --exclude="*.zip" ../duckduckgo-focus.zip *
+	zip -r --exclude=".*" --exclude="*.zip" ./duckduckgo-focus.zip *

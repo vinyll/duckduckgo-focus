@@ -7,7 +7,7 @@
   "description": "Cleanup the interface from unwanted content such as ads.",
 
   "icons": {
-    "48": "images/duckduckgo-focus.ico.png",
+    "48": "images/duckduckgo-focus.48.png",
     "512": "images/duckduckgo-focus.png"
   },
 
